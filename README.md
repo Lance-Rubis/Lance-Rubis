@@ -24,7 +24,7 @@ CySA+ | Network+ | Security+ | A+ | Project+ | ITIL 4 Foundation | Linux Essenti
 ![CompTIA A+](https://img.shields.io/badge/CompTIA-A%2B-005A9C?style=for-the-badge&logo=comptia&logoColor=white)
 ![CompTIA Project+](https://img.shields.io/badge/CompTIA-Project%2B-005A9C?style=for-the-badge&logo=comptia&logoColor=white)
 ![ITIL 4 Foundation](https://img.shields.io/badge/ITIL%204-Foundation-E31837?style=for-the-badge&logo=AXELOS&logoColor=white)
-![Linux Essentials](https://img.shields.io/badge/Linux-Essentials-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Linux Essentials](https://img.shields.io/badge/Linux-Essentials-008000?style=for-the-badge&logo=linux&logoColor=black)
 
 ## Current Educational Pursuits: 
 On path to get my CompTIA Pentest+
