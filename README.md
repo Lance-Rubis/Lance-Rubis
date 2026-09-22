@@ -9,6 +9,9 @@ Defensive Security: Splunk, Snort
 Programming & Automation:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ## Certifications:
 CySA+ | Network+ | Security+ | A+ | Project+ | ITIL 4 Foundation | Linux Essentials | 
