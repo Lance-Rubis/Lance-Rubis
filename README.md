@@ -1,5 +1,5 @@
 <h1 align="center"> Lance Rubis | B.S. Cybersecurity and Information Assurance |</h1>
-<h1 align="center">| (Est. completion 10.2026) |</h1>
+<h2 align="center">| (Est. completion 10.2026) |</h2>
 
 Hello! My name is Lance Rubis and I am a Cybersecurity and Information Assurance professional, dedicated to improving the security of systems and data at an enterprise scale. 
 
